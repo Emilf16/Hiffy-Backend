@@ -1,0 +1,1 @@
+2025-01-08 21:37:20.580 -04:00 [ERR] Edición de tareas domésticas fallida. Detalles: TareaDomestica/api/TareaDomestica PUT, 5, {"IdTareaDomestica":0,"IdFamilia":0,"Nombre":"string","Descripcion":"string","IdTipoTarea":0,"IdEstadoTarea":0,"Predeterminado":true}, Tarea no encontrada., "2025-01-08T21:37:20.5799136-04:00"
