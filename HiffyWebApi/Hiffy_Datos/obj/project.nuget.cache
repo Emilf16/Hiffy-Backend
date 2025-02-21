@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kzPB4j3tJeNK6TQlI1DSxdwAgQwvnHYX+mZkdAh2IQpRNgIznoH5fksw7BlF5gfjmoTOAv8NwlNwXtfPvYaJrQ==",
+  "dgSpecHash": "7ZOzqxz+KKZbmfmZyHsVn7EGOMg2dQnSuvgBVLpCzB68Kqk8uRGVirYq6M7R0LqQvk+WJfWkZLRAxrK/sxhuuA==",
   "success": true,
-  "projectFilePath": "/Volumes/1TB WD-BLACK/Repositorios/INTEC/HIFFY/HiffyWebApi/Hiffy_Datos/Hiffy_Datos.csproj",
+  "projectFilePath": "/Volumes/1TB WD-BLACK/Repositorios/INTEC/Hiffy-Backend/HiffyWebApi/Hiffy_Datos/Hiffy_Datos.csproj",
   "expectedPackageFiles": [
     "/Users/emilsolanogil/.nuget/packages/azure.core/1.35.0/azure.core.1.35.0.nupkg.sha512",
     "/Users/emilsolanogil/.nuget/packages/azure.identity/1.10.3/azure.identity.1.10.3.nupkg.sha512",

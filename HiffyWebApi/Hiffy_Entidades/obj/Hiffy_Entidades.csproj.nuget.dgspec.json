@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Volumes/1TB WD-BLACK/Repositorios/INTEC/HIFFY/HiffyWebApi/Hiffy_Entidades/Hiffy_Entidades.csproj": {}
+    "/Volumes/1TB WD-BLACK/Repositorios/INTEC/Hiffy-Backend/HiffyWebApi/Hiffy_Entidades/Hiffy_Entidades.csproj": {}
   },
   "projects": {
-    "/Volumes/1TB WD-BLACK/Repositorios/INTEC/HIFFY/HiffyWebApi/Hiffy_Entidades/Hiffy_Entidades.csproj": {
+    "/Volumes/1TB WD-BLACK/Repositorios/INTEC/Hiffy-Backend/HiffyWebApi/Hiffy_Entidades/Hiffy_Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Volumes/1TB WD-BLACK/Repositorios/INTEC/HIFFY/HiffyWebApi/Hiffy_Entidades/Hiffy_Entidades.csproj",
+        "projectUniqueName": "/Volumes/1TB WD-BLACK/Repositorios/INTEC/Hiffy-Backend/HiffyWebApi/Hiffy_Entidades/Hiffy_Entidades.csproj",
         "projectName": "Hiffy_Entidades",
-        "projectPath": "/Volumes/1TB WD-BLACK/Repositorios/INTEC/HIFFY/HiffyWebApi/Hiffy_Entidades/Hiffy_Entidades.csproj",
+        "projectPath": "/Volumes/1TB WD-BLACK/Repositorios/INTEC/Hiffy-Backend/HiffyWebApi/Hiffy_Entidades/Hiffy_Entidades.csproj",
         "packagesPath": "/Users/emilsolanogil/.nuget/packages/",
-        "outputPath": "/Volumes/1TB WD-BLACK/Repositorios/INTEC/HIFFY/HiffyWebApi/Hiffy_Entidades/obj/",
+        "outputPath": "/Volumes/1TB WD-BLACK/Repositorios/INTEC/Hiffy-Backend/HiffyWebApi/Hiffy_Entidades/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/emilsolanogil/.nuget/NuGet/NuGet.Config"

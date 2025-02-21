@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Hiffy_Servicios")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d37ec88c869776429c3c3cdd47a2e22b02d6c7d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b54fcc8e0178569fad18e8fe74159101c1f3c7b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Hiffy_Servicios")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Hiffy_Servicios")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WhDfbUgkV3CDpe8d8pUBzerjD1O9e3fO0nGXJsgaj+paPb0AK7Lxg8OiuEHaSanpmxpM0V7DvDDZkqymBbjyXg==",
+  "dgSpecHash": "6DKTGA7cpUbYXpG1XojgkhrNDQfK/H7mdegPbmGc0R7pPFScnTrC6l53Ft2J2r88hcT0+MB9EMBh7njxEf3x9w==",
   "success": true,
-  "projectFilePath": "/Volumes/1TB WD-BLACK/Repositorios/INTEC/HIFFY/HiffyWebApi/Hiffy_Entidades/Hiffy_Entidades.csproj",
+  "projectFilePath": "/Volumes/1TB WD-BLACK/Repositorios/INTEC/Hiffy-Backend/HiffyWebApi/Hiffy_Entidades/Hiffy_Entidades.csproj",
   "expectedPackageFiles": [
     "/Users/emilsolanogil/.nuget/packages/microsoft.netcore.app.ref/7.0.16/microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
     "/Users/emilsolanogil/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.16/microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512"
